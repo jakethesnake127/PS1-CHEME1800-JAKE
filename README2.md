@@ -1,0 +1,5 @@
+## Collaborators
+The only people I worked with for this problem set were Gavin and Brandon. All I ended up learning from them was that we all agreed that you could copy a lot of the code from lab 3d into the problem set. I also asked for clarification on some of my error messages from them when they had the same messages. 
+
+## The Problem Set
+To finish the problem set, I referenced the previous Lab 3d, as a lot of the code is pretty much the same. I did this for the Factory.jl and CHEME-1800-ProblemSet-1-Lib.jl primarily. For the test.jl file, I defined the encrypt function as "e". Typing "e" will encrypt the plaintext "Julia is awesome. The computer is my best friend, and it loves me. This is a test and only a test." It converts it all into capital letters as a result of the decryption process, also. I defined the decrypt function as "test". Typing "test" will decrypt the encrypted message.
